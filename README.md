@@ -1,7 +1,7 @@
 # Web-Engineering
 
 <html>
-<head>
+
 <style>
 table{width:100%;}
 table ,th,td{
@@ -10,7 +10,7 @@ border: 1px solid black;
 border-collapse:collapse
 }
 </style>
-</head>
+
 <body>
 <img src="https://simpleicon.com/wp-content/uploads/account.png" style: height=100;weight=100/>
 <h2 style="Sitka Banner";font-size=:16pt;>SKILLS</h2>
